@@ -1,7 +1,8 @@
 # Stock Analysis using Yahoo! Finance
 
 <b>Group Project <br>
-3,793 | 4,799: Skills; Programming - Introduction Level <br>
+3,793 | 4,799: Skills<br>
+Programming - Introduction Level <br>
 Autumn Semester 2019 <br>
 Dr. Mario Silic <br>
 University of St.Gallen </b> <br>
